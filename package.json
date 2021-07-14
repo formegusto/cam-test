@@ -1,0 +1,15 @@
+{
+  "name": "cam-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://formegusto:pen039578(@github.com/formegusto/cam-test",
+  "author": "formegusto <formegusto@gmail.com>",
+  "scripts": {
+    "prestart": "tsc",
+    "start": "tsc && parcel index.html"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
